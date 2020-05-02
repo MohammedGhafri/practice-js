@@ -16,3 +16,4 @@ if (hourNow > 18 && hourNow <= 23) {
     greeting = 'Something went wrong!';
 }
 document.write('<h3>' + greeting + '</h3>');
+
